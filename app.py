@@ -120,7 +120,7 @@ with st.expander("ℹ️ Comment utiliser cette application"):
         **Remplissez simplement le formulaire avec les informations du client :**
         1. Entrez les données personnelles et financières
         2. Sélectionnez les caractéristiques du prêt et cliquer sur 'Prédire' pour obtenir le résultat
-        3. Pour en  savoir plus sur la méthodologie vous pouvez cliquez sur ce lien: (https://github.com/kadidiatousow/Pret-Bancaire)
+        3. Pour en  savoir plus sur la méthodologie vous pouvez cliquez sur ce lien: (https://github.com/kadidiatousow/Pret_Bancaire/blob/main/loan_approve.ipynb)
     """)
 
 
